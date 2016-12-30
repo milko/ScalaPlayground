@@ -1,2 +1,0 @@
-# ScalaPlayground
-My Scala playground
